@@ -53,6 +53,7 @@ div {
 
 .blue {
     background-color: #0000FF;
+    color:#C4C4C4;
     text-align: right;
     margin-right: 50px;
     border-right: 5px solid;
@@ -61,7 +62,7 @@ div {
     border-left: 0px;
 }
 
-.blue h2,.blue p {
+.blue h2 {
     color:#C4C4C4;
 }
 
